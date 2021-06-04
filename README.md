@@ -1,4 +1,4 @@
-<h3>picoJSlib</h3> is a very very very pico library in JavaScript. It was created when I try understend how JQuery works. It use for create greeting in three languages and two types: formal and informal.<br>
+<h3>picoJSlib</h3> is a very very very pico library in JavaScript. It was created when I try understend how JQuery works in hood. It use for create greeting in three languages and two types: formal and informal.<br>
 <h1><strong>Installation:</strong></h1>
 
 1. Download repository<br>
@@ -33,6 +33,7 @@ lisa.setLang(lang).greet(lisa.getType()).toHtmlElem('#output');  set language an
 ```
 
 <h1> Example: </h1>
+live example: https://kowalikdominik.github.io/picoJSlib/
 
 ```
 var name  = 'Lisa' , surname = 'Smith', lang = 'en';
